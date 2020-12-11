@@ -1,0 +1,12 @@
+@import 'sass/Helpers/variables';
+@import 'sass/Helpers/mixins';
+@import 'sass/Layout/grid';
+@import 'sass/Componants/Buttons';
+@import 'sass/Componants/headings';
+@import 'sass/Pages/global-page.scss';
+@import 'sass/Layout/header';
+@import 'sass/Pages/homepage';
+@import 'sass/Layout/footer';
+img{
+    cursor: pointer;
+}
